@@ -80,4 +80,6 @@ Import file: file > Import > CSV file > select file > Delimiters: comma > Get da
 
 3. 完成data/chap2/2.2.xlsx中案例1-2中的问题
 
+![](https://github.com/yifan611/Practice/blob/main/Excel/img/Screenshot%202022-10-12%20at%2023.55.47.png)
 
+![](https://github.com/yifan611/Practice/blob/main/Excel/img/Screenshot%202022-10-12%20at%2023.55.55.png)
