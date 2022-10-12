@@ -1,9 +1,9 @@
-Note and exercise from [free-excel from Datawhale](https://github.com/yifan611/free-excel/blob/main/1.%20%E6%95%B0%E6%8D%AE%E7%BC%98%E4%BD%95%E8%80%8C%E6%9D%A5.md).
+# Note and exercise from [free-excel from Datawhale](https://github.com/yifan611/free-excel/blob/main/1.%20%E6%95%B0%E6%8D%AE%E7%BC%98%E4%BD%95%E8%80%8C%E6%9D%A5.md).
 
-# 1. Import data
+## 1. Import data
 
 
-# 2. Cell formats and Number Category
+## 2. Cell formats and Number Category
 
 ![](https://github.com/yifan611/Practice/blob/main/Excel/img/Screenshot%202022-10-12%20at%2022.23.43.png)
 
