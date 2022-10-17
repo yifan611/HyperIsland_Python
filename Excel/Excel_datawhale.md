@@ -59,6 +59,23 @@ The date as text formate can not be converted to date;
 <br />
 <br />
 
+
+## 3. Shortcut on Excel
+
+## 4. Cell combine multiple tables
+
+combine and calculate count of all the columns from multiple tables
+
+![](https://github.com/yifan611/Practice/blob/main/Excel/img/ezgif.com-gif-maker%20(1).gif)
+
+combine and calculate sum of all the rows from multiple tables
+
+![](https://github.com/yifan611/Practice/blob/main/Excel/img/row.gif)
+
+<br />
+<br />
+
+
 ### Exercise
 1. 将data/chap1/Titanic_train工作簿中的Pclass列的数值转文本
 
@@ -83,3 +100,6 @@ Import file: file > Import > CSV file > select file > Delimiters: comma > Get da
 ![](https://github.com/yifan611/Practice/blob/main/Excel/img/Screenshot%202022-10-12%20at%2023.55.47.png)
 
 ![](https://github.com/yifan611/Practice/blob/main/Excel/img/Screenshot%202022-10-12%20at%2023.55.55.png)
+
+
+
